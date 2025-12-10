@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there
+- I'm Makhosandile, or Andile for short.
+- I'm an aspiring full stack dev and Bachelor in IT final year student(2025).
+- I like working or being familar with every part of a project I'm on.
 
 <!--
 **MSNkosi31/MSNkosi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
