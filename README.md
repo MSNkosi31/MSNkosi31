@@ -1,5 +1,5 @@
 ## Hi there👋
-I'm Makhosandile NKosi OR **Andile** for short.
+I'm Makhosandile Nkosi OR **Andile** for short.
 
 I'm an aspiring full stack developer and Bachelor in IT final year student(2025).
 
