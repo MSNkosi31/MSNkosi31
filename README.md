@@ -1,9 +1,9 @@
-## Hi there
-I'm Makhosandile, or Andile for short.
+## Hi there👋
+I'm Makhosandile NKosi OR **Andile** for short.
 
 I'm an aspiring full stack developer and Bachelor in IT final year student(2025).
 
-I'm a big fan of diving into every part of a project head first and learning in the process.
+I'm a big fan of diving into every part of a project head first and learning in the process. Open to contributing to any project, just pop an invite
 
 Experianced languages:
 - C#
@@ -19,7 +19,7 @@ Experianced Frameworks/Technologies:
 - Docker
 - Microsoft SQL Server
 - MongoDB
-- 
+- Arduino
 
 
 
