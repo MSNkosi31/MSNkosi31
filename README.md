@@ -15,7 +15,8 @@ Experianced languages:
 
 Experianced Frameworks/Technologies:
 - .NET
-- React
+- React.js
+- Express.js
 - Docker
 - Microsoft SQL Server
 - MongoDB
