@@ -12,6 +12,7 @@ Experianced languages:
 - HTML
 - CSS
 - SQL
+- Python
 
 Experianced Frameworks/Technologies:
 - .NET
